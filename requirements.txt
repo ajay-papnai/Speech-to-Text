@@ -1,7 +1,6 @@
 streamlit==1.31.1
 SpeechRecognition==3.10.1
 pyttsx3==2.90
-pipwin==1.4.0
-PyAudio==0.2.13
 # PyAudio must be installed manually:
 # PyAudio-0.2.13-cp310-cp310-win_amd64.whl
+
